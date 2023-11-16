@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aholic-archie
-- 👀 I’m interested in using python to solve mathematical problems involving numbers
-- 🌱 I’m currently working with python
-- 💞️ I’m looking to collaborate on anything involving mathematics and numbers
-- 📫 If you want to find my works just visit the public repository named 'Project-Python-ate-the-Plus-Sign'
+- 👋 Hi, I’m @archielicious
+- 👀 I’m currently interested in working as a Frontend Developer with the tech stacks namely HTML5, CSS3, Bootstrap and Javascript. I have also worked with python to solve mathematical problems involving numbers
+- 🌱 I’m currently working with the tech stacks like HTML5, CSS3, Bootstrap and JavaScript 
+- 💞️ I’m looking to collaborate on anything involving Frontend Development using Javascript
+- 📫 If you want to find my works just visit the public repositories and see my works for Frontend Development and a little bit of python 
 - 🏖️ If you want to reach me drop me a mail on 'archishmandash@gmail.com'
 - 🎷 Thank you for reading this
