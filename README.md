@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @archielicious
-- 👀 I’m currently interested in working as a Frontend Developer, who can help people with businesses to get a functional and responsive websites to manage their business better. I have also worked with python to solve mathematical problems involving numbers
+- 👀 I’m currently interested in working as a Frontend Developer, who can help people with businesses to get a functional and responsive website to manage their businesses better. I have also worked with python to solve mathematical problems involving numbers
 - 🌱 I’m currently working with the tech stacks like HTML5, CSS3, Bootstrap and JavaScript 
 - 💞️ I’m looking to collaborate on anything involving Frontend Development using Javascript
 - 📫 If you want to find my works just visit the public repositories and see my works for Frontend Development and a little bit of python 
