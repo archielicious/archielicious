@@ -9,7 +9,7 @@
   <img src="https://streak-stats.demolab.com?user=archielicious&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=archielicious&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=archielicious&theme=gruvbox&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=archielicious&hide_border=true&area=true&theme=gruvbox" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=archielicious&hide_border=true&area=true&theme=gruvbox&radius=20" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -59,9 +59,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/archielicious/archielicious-2/output/snake.svg" alt="Snake animation" />
-
-
+<img src="https://raw.githubusercontent.com/archielicious/archielicious/output/snake.svg" alt="Snake animation" />
 
 ###
 
