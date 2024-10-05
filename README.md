@@ -19,29 +19,29 @@
 ###
 
 <div align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"/></a>
   <img width="12" />
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"/></a>
   <img width="12" />
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"/></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  /></a>
   <img width="12" />
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"/></a>
   <img width="12" />
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"/></a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=materialui" height="30" alt="materialui logo"/></a>
   <img width="12" />
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"/></a>
   <img width="12" />
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"/></a>
   <img width="12" />
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"/></a>
   <img width="12" />
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"/></a>
   <img width="12" />
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"/></a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"/></a>
   <img width="12" />
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  /></a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  /></a>
 </div>
 
 ###
