@@ -63,7 +63,7 @@
 
 ###
 
-<p align="left">👀 I’m currently interested in working as a Frontend Developer, who can help people with businesses to get a functional and responsive website to manage their businesses better. I have also worked with python to solve mathematical problems involving numbers<br>🌱 I’m currently working with the tech stacks like HTML5, CSS3, Bootstrap and JavaScript<br>💞️ I’m looking to collaborate on works involving Frontend Development using Javascript<br>📫 If you want to find my works just visit the public repositories and see my works for Frontend Development and a little bit of Python<br>🏖️ If you want to reach me drop me a mail on 'archishmandash@gmail.com'<br>🎷 Thank you for reading this</p>
+<p align="left">👀 I’m currently interested in working as a Frontend Developer, who can help people with businesses to get a functional and responsive website to manage their businesses better. I have also worked with python to solve mathematical problems involving numbers<br>🌱 I’m currently working with the tech stacks like HTML5, CSS3, Bootstrap and JavaScript<br>💞️ I’m looking to collaborate on works involving Frontend Development using Javascript<br>📫 If you want to find my works just visit the public repositories and see my works for Frontend Development and a little bit of Python<br>🏖️ If you want to reach me drop me a mail on <a href="mailto:archishmandash@gmail.com">archishmandash@gmail.com</a><br>🎷 Thank you for reading this</p>
 
 ###
 
