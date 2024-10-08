@@ -70,7 +70,7 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=archielicious&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=archielicious&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=archielicious&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=archielicious&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=archielicious&theme=gruvbox&no-frame=true&no-bg=true" style="width: 100%;" alt="trophy graph"  />
